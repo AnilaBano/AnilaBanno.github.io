@@ -70,6 +70,25 @@ body{
     margin-bottom: 10px;
     transition: ease-in 0.3s;
 }
+#yes{
+    text-align: center;
+    padding: 20px;
+    height: 650px;
+    overflow: auto;
+}
+#spices{
+    display: inline-block;
+    height: 550px;
+    width: 344px;
+    margin: 0 20px 20px 0;
+    background-color: white;
+    overflow: auto;
+    box-shadow: 5px 10px 25px black;
+}
+#spices:hover{
+    margin-top: 10px;
+    transition: ease-in 0.3s;
+}
 /*Footer*/
 footer{
     background-color: green;
